@@ -1,0 +1,14 @@
+[
+    {
+        "dog_name":"chief",
+        "dog_breed":"labrador retriever",
+        "DOB":"21/13/2013",
+        "phone_number":789546585
+    },
+    {
+        "dog_name":"rambo",
+        "dog_breed":"German Shepherd",
+        "DOB":"3/1/2019",
+        "phone_number":789546585
+    },
+]
